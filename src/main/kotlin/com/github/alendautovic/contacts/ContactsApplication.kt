@@ -7,5 +7,5 @@ import org.springframework.boot.runApplication
 class ContactsApplication
 
 fun main(args: Array<String>) {
-	runApplication<ContactsApplication>(*args)
+    runApplication<ContactsApplication>(*args)
 }
